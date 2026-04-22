@@ -1,8 +1,8 @@
-HGSOC spatial multi-omics analysis
+# HGSOC spatial multi-omics analysis
 
 This repository contains the analysis code used for the study of primary and metastatic high-grade serous ovarian cancer (HGSOC) using paired spatial transcriptomics, spatial metabolomics, spatial proteomics, and single-cell multi-omic profiling.
 
-Overview
+# Overview
 
 The goal of this repository is to provide an organized and reproducible framework for the computational analyses described in the manuscript, including:
 
@@ -19,7 +19,7 @@ This repository is organized by analysis module so that each major result sectio
 
 ⸻
 
-Repository structure
+# Repository structure
 
 HGSOC-spatial-multiomics/
 ├── README.md
